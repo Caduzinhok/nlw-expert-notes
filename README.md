@@ -8,10 +8,10 @@
 
 ### Principais aprendizados
 <ul>
-  <li>![#a3e635](Tailwindcss) `a3e635` - Estilização CSS dentro do HTML</li>
-  <li>![#a3e635](Vite) `a3e635` - Webpack para criação de projetos</li>
-  <li>![#a3e635](Radix-ui) `a3e635` - Biblioteca de Componentes</li>
-  <li>![#a3e635](Lucide-react) `a3e635` - Icones</li>
-  <li>![#a3e635](Date-fns) `a3e635` - Formatação de Datas</li>
-  <li>![#a3e635](Sonner) `a3e635` - Pop up's de alerta</li>
+  <li><span style="color: #a3e635">Tailwindcss</span> - Estilização CSS dentro do HTML</li>
+  <li><span style="color: #a3e635">Vite</span> - Webpack para criação de projetos</li>
+  <li><span style="color: #a3e635">Radix-ui</span> - Biblioteca de Componentes</li>
+  <li><span style="color: #a3e635">Lucide-react</span> - Icones</li>
+  <li><span style="color: #a3e635">Date-fns</span> - Formatação de Datas</li>
+  <li><span style="color: #a3e635">Sonner</span> - Pop up's de alerta</li>
 </ul>
